@@ -1,13 +1,6 @@
 {
   "employee": [
     {
-      "name": "Ricky Ponting",
-      "email": "rp@in.com",
-      "phone": "98899090",
-      "active": true,
-      "id": 2
-    },
-    {
       "id": 3,
       "name": "Robert",
       "email": "robert@in.com",
@@ -27,9 +20,16 @@
     },
     {
       "id": 6,
-      "name": "Natiraja prajapati satna",
+      "name": "Natiraja prajapati ",
       "email": "natirajaprajapati5@gmail.com",
       "phone": "+917489128297"
+    },
+    {
+      "name": "ajay",
+      "email": "xyz@gmail.com",
+      "phone": "7637672836",
+      "active": true,
+      "id": 7
     }
   ]
 }
